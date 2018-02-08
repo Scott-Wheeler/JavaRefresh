@@ -2,3 +2,6 @@ Java 101: learn java from the ground up
 2 pages
 https://www.javaworld.com/article/2076075/learn-java/core-java-learn-java-from-the-ground-up.html
 
+Java 101: Elementary java language features
+3 pages
+https://www.javaworld.com/article/2925720/learn-java/elementary-java-language-features.html
